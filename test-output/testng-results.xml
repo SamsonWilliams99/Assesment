@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T15:57:55 IST" name="Default suite" finished-at="2023-10-06T15:58:09 IST" duration-ms="13632">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T15:57:55 IST" name="Default test" finished-at="2023-10-06T15:58:09 IST" duration-ms="13632">
+      <class name="TestNG.DataProviders">
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNG.DataProviders@2a3b5b47]" started-at="2023-10-06T15:57:55 IST" name="demo" data-provider="getData" finished-at="2023-10-06T15:58:00 IST" duration-ms="4915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[williams]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNG.DataProviders@2a3b5b47]" started-at="2023-10-06T15:58:00 IST" name="demo" data-provider="getData" finished-at="2023-10-06T15:58:05 IST" duration-ms="4390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jossy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nissi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNG.DataProviders@2a3b5b47]" started-at="2023-10-06T15:58:05 IST" name="demo" data-provider="getData" finished-at="2023-10-06T15:58:09 IST" duration-ms="4295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- TestNG.DataProviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
